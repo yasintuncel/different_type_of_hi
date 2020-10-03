@@ -1,7 +1,7 @@
 # different_type_of_hi
 write different type of 'hi' in some language .json file 
 
-
+```json
 [
     {"Australia": "Hello"},
     {"Andorra": "Hola"},
@@ -28,3 +28,4 @@ write different type of 'hi' in some language .json file
     {"Japan": "&#12371;&#12435;&#12395;&#12385;&#12399;"},
     {"Korea  Republic of": "&#50504;&#45397;&#54616;&#49464;&#50836;"},
 ]
+```
